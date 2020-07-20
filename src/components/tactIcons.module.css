@@ -1,0 +1,10 @@
+.TactIcon{
+    height: 100%;
+    color: white;
+    font-size: 4em;
+    border: 1px solid gray;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
